@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# This is my blastoff script!
+
+echo "Countdown to ignition"
+for i in {10..0}; do
+	echo $i
+	sleep 1
+done
+echo "Blastoff"
