@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "name": "AutoSort",
+  "modid": "autosort",
+  "description": "Adds an Auto-Sort button & hotkey to compact stacks and sort inventories by perishability, type, name, and durability.",
+  "version": "0.1.0",
+  "website": "https://example.com",
+  "authors": [ "YourName" ],
+  "dependencies": {
+    "game": "1.19.0"
+  }
+}
